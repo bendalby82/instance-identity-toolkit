@@ -9,7 +9,8 @@ This page gives you a script to generate a known, good private key and certifica
 
 ## 2. Prerequisites  
 1. You must have access to latest installation of Cloud Foundry (not PCF Dev), including access to BOSH.  
-2. You must have access to a workstation with CF CLI. 
+2. You must have access to a workstation with CF CLI.  
+3. You have cloned this repository to your workstation and are logged into a terminal.  
 
 ## 3. Generating the  CA Keys  
 Run [createCA.sh](https://github.com/bendalby82/instance-identity-toolkit/blob/master/createCA.sh) from a Linux or OSX terminal that has openssl installed.  
