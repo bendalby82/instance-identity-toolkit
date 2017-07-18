@@ -8,7 +8,8 @@ p,h1,h2,h3 {
 </head>
 <body>
 <h1>Diego Instance Identity Toolkit</h1>
-<p>A toolkit for Diego's experimental <a href="https://github.com/cloudfoundry/diego-release/blob/develop/docs/instance-identity.md">Instance Identity</a> feature</P
+<p>A toolkit for Diego's experimental <a href="https://github.com/cloudfoundry/diego-release/blob/develop/docs/instance-identity.md">Instance Identity</a> feature.</p>
+<p>Source code here: <a href="https://github.com/bendalby82/instance-identity-toolkit">https://github.com/bendalby82/instance-identity-toolkit</a></p>
 <h2>Cloud Foundry Environment Variables</h2>
 
 <?php
